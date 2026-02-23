@@ -1,3 +1,5 @@
+import { b } from './samuray.js';
 const website = 'google.com';
 
-console.log(a, website);
+console.log(website);
+console.log(b);
